@@ -3,30 +3,18 @@ layout: page
 title: About me
 ---
 
-I am a Senior Software Engineer with over 9 years of experience building backend, data, and AI-driven solutions in production environments. I hold a Bachelor's degree in Systems Engineering and have a strong background in .NET and Python, with hands-on experience across cloud platforms and large-scale data systems.
+I am a Senior Software Engineer with 9+ years of experience building backend, data, and AI-driven solutions in production environments. I hold a Bachelor's degree in Systems Engineering and have a strong background in .NET and Python, with hands-on experience across cloud platforms and large-scale data systems.
 
 I currently work on an Innovation team at a U.S. direct-to-consumer insurance company, where I build systems that combine speech-to-text, large language models, and data pipelines to solve real compliance, performance, and operational challenges.
 
 ## What I Do
 
-My work focuses on backend architecture and implementation, with strong involvement in system design. I build ETL-oriented data pipelines and production systems that process voice, text, and structured data at scale.
-
-Examples of the kinds of projects I have worked on include:
-
-- A compliance detection system that analyzes call transcriptions to identify TCPA-related risks, achieving approximately 94% detection reliability
-- A call segment analysis tool that measures agent performance against top performers to surface coaching opportunities
-- A real-time AI virtual assistant that handles inbound calls, collects customer information, and routes calls to the appropriate agent
-- An AI-powered recommendation system that dynamically selects webpage titles based on user search keywords, with emphasis on low latency
-- A reusable framework for calling OpenAI models from Databricks with rate-limit handling, asynchronicity, and throughput optimization
-
-I work primarily with Databricks, Azure OpenAI, Azure, and AWS.
+I build backend services and data pipelines that combine data engineering and applied AI to solve operational, compliance, and performance problems in production systems.
 
 
 ## Background
 
-I started my career in .NET development and progressively moved into data engineering and AI-driven systems. Over the years, I have worked across cloud platforms, built production pipelines, and contributed to systems that run at scale and serve real users.
-
-My education is in Systems Engineering. My trajectory has been shaped by solving practical problems in regulated and high-stakes environments.
+My career began with enterprise backend and integration systems and evolved toward cloud data engineering and applied AI, always with a focus on reliable production software.
 
 ## How I Think
 
