@@ -1,5 +1,8 @@
 title: Diego Santamaria
-description: Senior Software Engineer
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal page of a senior software engineer focused on backend, data, and AI.
+  Powered by Jekyll, hosted on GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://diego-santamaria.github.io
 
 lang: en
@@ -13,6 +16,14 @@ plugins:
 
 minima:
   skin: auto
+  social_links:
+    - title: "GitHub"
+      icon: "github"
+      url: "https://github.com/diego-santamaria"
+    - title: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/diego-santamaria-sotelo"
+
 
 exclude:
   - README.md
