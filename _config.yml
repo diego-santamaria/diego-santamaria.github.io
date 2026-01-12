@@ -5,10 +5,16 @@ url: https://diego-santamaria.github.io
 lang: en
 author: Diego Santamaria
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  skin: auto
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
