@@ -1,3 +1,24 @@
 title: Diego Santamaria
 description: Senior Software Engineer
 url: https://diego-santamaria.github.io
+
+lang: en
+author: Diego Santamaria
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+minima:
+  skin: dark
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/diego-santamaria
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/diego-santamaria-sotelo
+
+exclude:
+  - README.md
