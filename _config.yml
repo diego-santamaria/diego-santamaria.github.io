@@ -1,4 +1,4 @@
-title: Diego Santamaria
+title: Diego Santamaria Sotelo
 description: >- # this means to ignore newlines until "baseurl:"
   Personal page of a senior software engineer focused on backend, data, and AI.
   Powered by Jekyll, hosted on GitHub Pages.
@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://diego-santamaria.github.io
 
 lang: en
-author: Diego Santamaria
+author: Diego Santamaria Sotelo
 
 remote_theme: jekyll/minima
 plugins:

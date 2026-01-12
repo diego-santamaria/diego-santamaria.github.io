@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 ---
 
 I am a Senior Software Engineer with 9+ years of experience building backend, data, and AI-driven solutions in production environments. I hold a Bachelor's degree in Systems Engineering and have a strong background in .NET and Python, with hands-on experience across cloud platforms and large-scale data systems.
